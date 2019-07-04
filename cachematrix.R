@@ -1,3 +1,5 @@
+## This entire code calculates the inverse of a (invertible) given matrix
+## and stores it result in the cache memory. So whenever the result is needed,
 ## there would be no need to recalculate the inverse of the matrix,
 ## it takes it from the cache memory.
 
